@@ -1,5 +1,10 @@
 # CyberRegistration — Système de détection d'attaques SQL Injection
 
+[![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-12-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![Status](https://img.shields.io/badge/Status-Termine-success)](https://github.com/orneldreams/cyber-project)
+
 Projet de cybersécurité en C# .NET 8 démontrant la détection et la journalisation d'attaques par injection SQL (SQL Injection) sur un système d'inscription/connexion.
 
 ---
